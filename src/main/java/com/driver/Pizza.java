@@ -22,6 +22,8 @@ public class Pizza {
         baseprice=getbasedPrize();
         price=baseprice;
         isExtraCheese=false;
+        isExtratopp=false;
+        isTakeway=false;
     }
 
 
